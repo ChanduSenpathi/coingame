@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coingame/static/css/main.79fcc14b.css",
+    "main.js": "/coingame/static/js/main.9878ce52.js",
+    "static/js/787.a0111b15.chunk.js": "/coingame/static/js/787.a0111b15.chunk.js",
+    "index.html": "/coingame/index.html",
+    "main.79fcc14b.css.map": "/coingame/static/css/main.79fcc14b.css.map",
+    "main.9878ce52.js.map": "/coingame/static/js/main.9878ce52.js.map",
+    "787.a0111b15.chunk.js.map": "/coingame/static/js/787.a0111b15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79fcc14b.css",
+    "static/js/main.9878ce52.js"
+  ]
+}
