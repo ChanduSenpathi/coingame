@@ -1,0 +1,44 @@
+.main-container{
+  background-image: linear-gradient(to left,#e2a139, #f9d423);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 100vh;
+}
+.sub-container{
+  padding: 50px;
+  border-radius: 20px;
+  background-color: #fff;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 350px;
+}
+.header{
+  color: #a35200;
+}
+.image-set{
+  width: 200px;
+  height: 200px;
+}
+.button-coin{
+  padding: 5px 20px;
+  background: #f9d423;
+  color:  #a35200;
+  border-radius: 10px;
+  border-width: 0px;
+  cursor: pointer;
+}
+.btn-container{
+  display: flex;
+  justify-content: space-between;
+}
+.btn-container p+p{
+  margin-left: 50px;
+}
+p{
+  font-weight: 900;
+}
